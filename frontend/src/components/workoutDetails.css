@@ -1,0 +1,28 @@
+.workout{
+	/* background-color: blue; */
+}
+.workout span{
+	color: royalblue;
+	font-weight: bolder;
+	font-size: 2rem;
+}
+.workout div{
+	color: purple;
+	font-weight: bolder;
+	font-size: 1.5rem;
+}
+.workout button{
+	background-color: blue;
+	color: white;
+	font-size: 1rem;
+	padding: 10px;
+	border: 2px solid black;
+	border-radius: 3px;
+}
+.workout button:hover{
+	background-color: purple;
+	color: black;
+	cursor: pointer;
+	
+	
+}
